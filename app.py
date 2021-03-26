@@ -41,6 +41,8 @@ st.subheader('Section 1b')
 st.markdown('''Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel dolor convallis, rhoncus elit a, tempus nulla. Aliquam erat volutpat. In turpis erat, fermentum nec ullamcorper nec, egestas a nibh. Nam pharetra nunc vitae sem pellentesque, vel convallis nibh convallis. Duis mattis egestas suscipit. Donec ligula mauris, lacinia ut mattis eget, blandit non ipsum. Sed lobortis semper blandit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam orci orci, porttitor vitae malesuada sit amet, pretium vel ex. Praesent quis purus ut libero dapibus dignissim. Sed tempor volutpat risus id sollicitudin. Nunc tincidunt velit elit, non ultrices tortor consectetur non. Mauris vitae molestie magna. Donec vitae hendrerit tortor, vel ultrices diam.
 Maecenas blandit sapien odio, id bibendum leo consectetur vitae. Donec tempus venenatis lorem, in porta felis malesuada eget. Aenean suscipit commodo ligula. Nunc consequat volutpat mauris, ut luctus orci viverra in. Morbi sed blandit tortor. Donec at lacinia nisl, at eleifend urna. Nullam nec ligula vulputate ligula blandit ornare non in lectus. Proin blandit suscipit nisi, sed pellentesque libero suscipit in. Vivamus luctus augue augue. Vivamus consequat, nunc vitae finibus ultricies, nunc dui auctor justo, ut tincidunt ipsum enim a nibh. Donec convallis interdum diam, rhoncus porta ante bibendum a. Duis efficitur convallis condimentum.''')
 
+st.markdown('---')
+
 st.header('Section 2 Multiple Columns')
 st.markdown('''
 In this section of the app we focus on how anchors get rendered in multiple columns
