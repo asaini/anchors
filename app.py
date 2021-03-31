@@ -3,6 +3,10 @@ import numpy as np
 import plotly.figure_factory as ff
 
 
+st.sidebar.title('Sidebar Title')
+
+st.sidebar.subheader('Sidebar subheader')
+
 st.title('Introducing Anchor Tags with Headings')
 
 st.write('This is a demo app to showcase the functionality of Anchor Tags')
